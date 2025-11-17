@@ -2,5 +2,5 @@ const a = () => {
     alert("Hello Esti!✌️")
 }
 const b = () => {
-    return 6;
+    return '6';
 }
