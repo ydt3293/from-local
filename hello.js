@@ -6,6 +6,6 @@ const b = () => {
     return '6';
 }
 const c = () =>{
-    console.log("Hi everybody!!!");
+    console.log("Hello everyone!!!");
 }
 
