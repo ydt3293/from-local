@@ -1,5 +1,5 @@
 const a = () => {
-    alert("Hello Esti!✌️")
+    alert("Hello Esti!✌️");
 }
 const b = () => {
     alert("5")
@@ -8,4 +8,6 @@ const b = () => {
 const c = () =>{
     console.log("Hello everyone!!!");
 }
-
+const d = () =>{
+    confirm("Are you fell good, my fruend??");
+}
