@@ -15,3 +15,6 @@ const d = () =>{
 const e = () =>{
     alert("I fell good!!! Thankyou Hashem!!!")
 }
+const f = () =>{
+    alert("I fell good!!! Thankyou Hashem!!!")
+}
